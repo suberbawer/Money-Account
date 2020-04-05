@@ -6,3 +6,5 @@ AgileEngine
 3- npm run dev
 
 Enjoy!
+
+PS: take in consideration that path is hardcoded to use localhost
